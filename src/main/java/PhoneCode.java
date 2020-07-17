@@ -19,7 +19,7 @@ public class PhoneCode  {
         private static String code ;
 
         public static void main(String[] args) {
-            String phone = "17642119356"; //此处可输入你的手机号码进行测试
+            String phone = "18237161431"; //此处可输入你的手机号码进行测试
             getPhonemsg(phone);
 
         }

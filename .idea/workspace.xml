@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8db40c0a-c73f-4ebe-a056-53974328c3b8" name="Default Changelist" comment="" />
+    <list default="true" id="8db40c0a-c73f-4ebe-a056-53974328c3b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PhoneCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PhoneCode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\workspace\Maven_demo\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -30,6 +40,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1eO4G8ysH7J433bUyjEapIexEr4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -120,22 +132,42 @@
       <workItem from="1561508719073" duration="20525000" />
       <workItem from="1561533773042" duration="3042000" />
       <workItem from="1594179209160" duration="8977000" />
-      <workItem from="1594957820828" duration="2151000" />
+      <workItem from="1594957820828" duration="2516000" />
     </task>
+    <task id="LOCAL-00001" summary="短信发送">
+      <created>1594963694316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594963694316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="短信发送" />
+    <option name="LAST_COMMIT_MESSAGE" value="短信发送" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594179353841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594179353841" />
+    <state x="562" y="115" key="CommitChangelistDialog2" timestamp="1594963693906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="562" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594963693906" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1594963606461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594963606461" />
+    <state x="814" y="416" key="Github.ShareDialog" timestamp="1594963832439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="814" y="416" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594963832439" />
     <state width="1876" height="149" key="GridCell.Tab.0.bottom" timestamp="1594200333701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
