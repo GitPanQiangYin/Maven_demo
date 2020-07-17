@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8db40c0a-c73f-4ebe-a056-53974328c3b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eO4G8ysH7J433bUyjEapIexEr4" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3137931" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\Maven_demo\src\main\webapp\WEB-INF\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\Maven_demo\src\main\webapp\WEB-INF\jsp" />
+      <recent name="E:\workspace\Maven_demo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PhoneCode">
+    <configuration name="PhoneCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="PhoneCode" />
+      <module name="Maven_demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Maven_demo/src/main/webapp/WEB-INF/jsp/Login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="register.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Maven_demo/src/main/webapp/WEB-INF/jsp/register.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.PhoneCode" />
+      <item itemvalue="JavaScript Debug.Login.html" />
+      <item itemvalue="JavaScript Debug.register.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PhoneCode" />
+        <item itemvalue="JavaScript Debug.register.html" />
+        <item itemvalue="JavaScript Debug.Login.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8db40c0a-c73f-4ebe-a056-53974328c3b8" name="Default Changelist" comment="" />
+      <created>1561452610971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561452610971</updated>
+      <workItem from="1561452613389" duration="2146000" />
+      <workItem from="1561454779685" duration="713000" />
+      <workItem from="1561508719073" duration="20525000" />
+      <workItem from="1561533773042" duration="3042000" />
+      <workItem from="1594179209160" duration="8977000" />
+      <workItem from="1594957820828" duration="2151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594179353841">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594179353841" />
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1594963606461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594963606461" />
+    <state width="1876" height="149" key="GridCell.Tab.0.bottom" timestamp="1594200333701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594200333701" />
+    <state width="1876" height="149" key="GridCell.Tab.0.center" timestamp="1594200333701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="149" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594200333701" />
+    <state width="1876" height="149" key="GridCell.Tab.0.left" timestamp="1594200333701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="149" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594200333701" />
+    <state width="1876" height="149" key="GridCell.Tab.0.right" timestamp="1594200333701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="149" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594200333701" />
+    <state x="455" y="151" key="SettingsEditor" timestamp="1594963598280">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594963598280" />
+    <state x="570" y="241" width="779" height="558" key="find.popup" timestamp="1594179963851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="570" y="241" width="779" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594179963851" />
+  </component>
+</project>

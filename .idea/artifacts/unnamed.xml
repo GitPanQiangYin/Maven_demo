@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Maven_demo" />
+          <element id="jpa-descriptors" facet="Maven_demo/jpa/JPA" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.aliyun:aliyun-java-sdk-core:3.2.8" />
+          <element id="library" level="project" name="Maven: com.aliyun:aliyun-java-sdk-dysmsapi:1.1.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
