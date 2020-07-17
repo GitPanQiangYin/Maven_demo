@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8db40c0a-c73f-4ebe-a056-53974328c3b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PhoneCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PhoneCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3137931" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -132,7 +131,7 @@
       <workItem from="1561508719073" duration="20525000" />
       <workItem from="1561533773042" duration="3042000" />
       <workItem from="1594179209160" duration="8977000" />
-      <workItem from="1594957820828" duration="2516000" />
+      <workItem from="1594957820828" duration="3090000" />
     </task>
     <task id="LOCAL-00001" summary="短信发送">
       <created>1594963694316</created>
@@ -141,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594963694316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="短信发送修改">
+      <created>1594964030885</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594964030885</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,25 +155,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="短信发送" />
-    <option name="LAST_COMMIT_MESSAGE" value="短信发送" />
+    <MESSAGE value="短信发送修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="短信发送修改" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594179353841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594179353841" />
-    <state x="562" y="115" key="CommitChangelistDialog2" timestamp="1594963693906">
+    <state x="562" y="115" key="CommitChangelistDialog2" timestamp="1594964030633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="562" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594963693906" />
+    <state x="562" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594964030633" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1594963606461">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594963606461" />
-    <state x="814" y="416" key="Github.ShareDialog" timestamp="1594963832439">
+    <state x="814" y="416" width="291" height="288" key="Github.ShareDialog" timestamp="1594964267261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="814" y="416" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594963832439" />
+    <state x="814" y="416" width="291" height="288" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594964267261" />
     <state width="1876" height="149" key="GridCell.Tab.0.bottom" timestamp="1594200333701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -184,10 +191,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1876" height="149" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594200333701" />
-    <state x="455" y="151" key="SettingsEditor" timestamp="1594963598280">
+    <state x="455" y="151" key="SettingsEditor" timestamp="1594964537365">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="455" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594963598280" />
+    <state x="455" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594964537365" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1594964036236">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594964036236" />
     <state x="570" y="241" width="779" height="558" key="find.popup" timestamp="1594179963851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
